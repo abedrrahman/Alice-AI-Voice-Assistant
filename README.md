@@ -58,6 +58,7 @@ To run the app, you need an OpenAI API key.
 
 ```dart
 const openAIAPIKey = 'YOUR_API_KEY_HERE';
+```
 🚀 Getting Started
 Clone this repo
 
