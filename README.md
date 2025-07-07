@@ -18,7 +18,7 @@ Alice is a Flutter-based AI voice assistant powered by **ChatGPT** and **DALL·E
 
 | Home UI | AI Response | Image Generation |
 |--------|--------------|------------------|
-| ![Home UI](assets/screenshots/mainPage.png) | ![AI Response](assets/screenshots/response.png) | ![Image Generation](assets/screenshots/generatedImage.png) |
+| ![Home UI](C:\Users\abdalrahman\StudioProjects\AliceAI\assets\screenshots\mainPage.png) | ![AI Response](assets/screenshots/response.png) | ![Image Generation](assets/screenshots/generatedImage.png) |
 
 ---
 
